@@ -76,7 +76,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Live Demo
 
-You can access the live version of animagic [here](https://chat-blue-beta-31.vercel.app/).
+You can access the live version of animagic [here](https://doit-khaki.vercel.app/).
 
 ### Contact Me
 
